@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on open source projects or any other collaboration work
 - 📫 Feel free to reach out to me at narayandeshmukh16@gmail.com or you can connect with me at https://www.linkedin.com/in/narayand16
 
-Thank you :)
+Thank you 😊
 
 <!---
 narayand16/narayand16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
