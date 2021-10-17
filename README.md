@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Narayan , a passionate Front End developer
 - 🌱 I’m currently working on javascript frameworks like Angular, React. I also like to design the web applications
-- 💞️ I’m looking to collaborate on open source projects or any other collaboration work
+- 💞️ In my free time, I look into open source projects and contribute to the issues
 - 📫 Feel free to reach out to me at narayandeshmukh16@gmail.com or you can connect with me at https://www.linkedin.com/in/narayand16
 
 Thank you 😊
