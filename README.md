@@ -1,4 +1,4 @@
-# Namaste, Narayan here 👋
+# Hello, Narayan here 👋
 
 - ⭐ I'm a passionate Front End developer
 - 🌱 I’m currently working on javascript frameworks like Angular, React. I like to design and develop the web applications
