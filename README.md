@@ -9,11 +9,11 @@ Thank you 😊
 
 ##### Narayan's GitHub stats & Top Langs
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/narayand16">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=narayand16&hide=issues&count_private=true&show_icons=true" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/narayand16">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayand16&layout=compact&langs_count=8" />
 </a>
 
