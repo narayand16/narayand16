@@ -1,4 +1,4 @@
-# Hello 👋
+# Hi there 👋
 
 - ⭐ I'm a passionate Front End developer
 - 🌱 I’m currently using javascript frameworks/libraries like Angular, React in my projects.
@@ -7,7 +7,8 @@
 
 Thank you 😊
 
-##### Narayan's GitHub stats & Top Langs
+##### Narayan's GitHub stats & Top Langs 
+<sub>![visitors](https://komarev.com/ghpvc/?username=narayand16&label=visitors)</sub>
 
 <a href="https://github.com/narayand16">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=narayand16&hide=issues&count_private=true&show_icons=true" />
@@ -16,6 +17,8 @@ Thank you 😊
 <a href="https://github.com/narayand16">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayand16&layout=compact&langs_count=8" />
 </a>
+
+
 
 
 <!---
