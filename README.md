@@ -8,7 +8,6 @@
 Thank you 😊
 
 ##### Narayan's GitHub stats & Top Langs 
-<sub>![visitors](https://komarev.com/ghpvc/?username=narayand16&label=visitors)</sub>
 
 <a href="https://github.com/narayand16">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=narayand16&hide=issues&count_private=true&show_icons=true" />
